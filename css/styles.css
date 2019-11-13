@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+header{
+    top: 0;
+    left: 0;
+    width: auto;
+    height: 50px;
+    text-align: center;
+    font-size: 50px;
+    background-color: yellow;
+}
+
+nav {
+    top: 0;
+    left: 0;
+    width: auto;
+    height: 50px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: olive;
+    background-color: green;
+}
+
+p {
+    font-family: fantasy;
+    color: blue;
+}
+
+#menu {
+    position: fixed;
+    left: 0;
+    top: 50%;
+    width: 200px;
+    background-color: cyan;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+body {
+    background-image: url(/Projet1bis/img/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg);
+    background-size: cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+    background-color: gray;
+}
