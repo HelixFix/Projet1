@@ -3,8 +3,7 @@
 
 Dans ce projet, vous allez réaliser un *site web composé de plusieurs pages.*
 Le site doit présenter le langage HTML à travers des pages sur différentes balises html.
-Les balises à définir sont les suivantes :
-<html>, <head>, <meta>, <link>, <title>, <body>, <b>, <i>, <u>, <pre>, <p>, <ul>, <li>, <br>, <hr>, <img>, <a>, <form>, <input>, <textarea>, <select>, <div>, <header>, <nav>, <section>, <article>, <aside>, <footer>
+
 
 Ne pas oublier de parler des *principaux attributs* de chaque balise.
 
